@@ -1,25 +1,17 @@
----
-layout: default
-title: Home
----
+# My Dataset
 
-# Test Dataset
-
-This is a **test page** to confirm that GitHub Pages is working.  
-Once confirmed, replace this with your real dataset explanation.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
-
-## Links
-- 🔗 [Zenodo record](https://doi.org/10.5281/zenodo.1234567)
-- 📦 [Direct download (example)](https://zenodo.org/record/1234567/files/data.zip?download=1)
-
-## Contents
-- Train/Val/Test splits
-- Features: fake example
-- Size: ~123 MB
+<div style="background:#f9f9f9; padding:20px; border-radius:12px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
+  <h2 style="margin-top:0;">Overview</h2>
+  <p>
+    This dataset contains <strong>12,345 samples</strong>, across train/val/test splits.
+  </p>
+</div>
 
 ---
 
-_If you can read this on `https://<username>.github.io/<repo>/`, your GitHub Pages setup is correct._
-
+## Downloads
+<ul>
+  <li>📦 <a href="https://zenodo.org/record/1234567/files/train.csv?download=1">Train split</a></li>
+  <li>📦 <a href="https://zenodo.org/record/1234567/files/val.csv?download=1">Validation split</a></li>
+  <li>📦 <a href="https://zenodo.org/record/1234567/files/test.csv?download=1">Test split</a></li>
+</ul>
